@@ -1,0 +1,16 @@
+{
+  "study_start": 1802,
+  "study_end": 1902,
+  "panel_years": 101,
+  "joint_observed_years_1854_1902": 46,
+  "reform": {
+    "n": 80,
+    "best_first_post_year": 1853,
+    "jump_pct": 218.1365085320762,
+    "pre_trend_pct": 4.204700740936519,
+    "post_trend_pct": 2.6420839784886705
+  },
+  "coal_post_reform_cagr_ratio": 0.7470095627752742,
+  "local_patent_mean_ratio": 4.131855309218203,
+  "local_rail_mean_ratio": 0.5733333333333333
+}

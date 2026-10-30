@@ -1,0 +1,38 @@
+[
+  {
+    "source": "patents",
+    "url": "https://raw.githubusercontent.com/PetraMoser/Pirates_and_Patents/c5c38cc4e59a803fcc8df800a29091eb780dbc98/data/Brit_patents_app_sealed1617-1938.xlsx",
+    "page": "https://github.com/PetraMoser/Pirates_and_Patents",
+    "checked_utc": "2026-10-28T12:29:06.140094+00:00",
+    "mode": "bundled_snapshot",
+    "http_status": null,
+    "bytes": 13878,
+    "sha256": "9729df588b53bc5183f313a98db517f34819f088971a49e56702278283814722",
+    "rows": 322,
+    "schema_valid": true
+  },
+  {
+    "source": "coal",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=A01211GBA418NNBR",
+    "page": "https://fred.stlouisfed.org/series/A01211GBA418NNBR",
+    "checked_utc": "2026-10-28T12:29:06.260998+00:00",
+    "mode": "bundled_snapshot",
+    "http_status": null,
+    "bytes": 1178,
+    "sha256": "cc0c471cb4257fff098d346c12ebbe1b9ef0d26d8d5a3d0db34f1370e81333f0",
+    "rows": 68,
+    "schema_valid": true
+  },
+  {
+    "source": "rail",
+    "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=A02085GBA374NNBR",
+    "page": "https://fred.stlouisfed.org/series/A02085GBA374NNBR",
+    "checked_utc": "2026-10-28T12:29:06.267149+00:00",
+    "mode": "bundled_snapshot",
+    "http_status": null,
+    "bytes": 1621,
+    "sha256": "b0d49ee96f7a865441cf533720f44847d680caa7ef2968c8201673c79915f586",
+    "rows": 110,
+    "schema_valid": true
+  }
+]
